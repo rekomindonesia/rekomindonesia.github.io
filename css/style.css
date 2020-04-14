@@ -864,7 +864,7 @@ h3, .h3 {
 .bg-shape {
 /*   position: relative; */
 	overflow : scroll;
-    height: 200px;
+/*     height: 200px; */
 }
 
 .bg-shape::before {
