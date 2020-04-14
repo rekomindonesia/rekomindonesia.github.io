@@ -863,6 +863,7 @@ h3, .h3 {
 
 .bg-shape {
   overflow : scroll;
+  height: 200px;
 }
 
 .bg-shape::before {
