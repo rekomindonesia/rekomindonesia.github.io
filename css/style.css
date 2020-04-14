@@ -862,7 +862,7 @@ h3, .h3 {
 }
 
 .bg-shape {
-  overflow-y : scroll;
+overflow:hidden;
   height: 100%;
 }
 
